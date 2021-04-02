@@ -83,3 +83,4 @@
 | [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
 | [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
+| [Student Code-In](https://scodein.tech/) | Swag rewards|  |
